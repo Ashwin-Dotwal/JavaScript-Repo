@@ -40,5 +40,6 @@ console.log(size);
 
 let marks=63.3365;
 marks = "ashwin";
+marks=true;
 
 console.log(marks);
