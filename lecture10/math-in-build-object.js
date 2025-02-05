@@ -18,3 +18,4 @@ console.log(Math.ceil(1.3));
 
 console.log(Math.abs(-8));
 
+console.log(Math.random());
